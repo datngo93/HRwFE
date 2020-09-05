@@ -10,3 +10,6 @@ Color distortion correction | The employed linear regression model for estimatin
 Post-dehazing false enlargement correction | The difference between the atmospheric light pixel and pixels surrounding white objects caused the post-dehazing false enlargement. HRwFE employed a compensation scheme that scales up the atmospheric light according to solve this problem.
 
 ## Qualitative results
+![First](/results/qualitative_evaluation_1.jpg)
+![Second](/results/qualitative_evaluation_2.jpg)
+![Third](/results/qualitative_evaluation_all.jpg)
